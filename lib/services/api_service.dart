@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:mywebtoon/models/webtoon_detial_model.dart';
+import 'package:mywebtoon/models/webtoon_detail_model.dart';
 import 'package:mywebtoon/models/webtoon_episode_model.dart';
 import 'package:mywebtoon/models/webtoon_model.dart';
 
